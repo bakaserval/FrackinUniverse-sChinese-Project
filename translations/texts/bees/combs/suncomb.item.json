@@ -19,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "提取器无法处理如此炽热的蜂巢.\n^blue;+^white;10 ^blue;Fuel^reset;",
       "Eng": "Too hot for the honey extractor.\n^blue;+^white;10 ^blue;Fuel^reset;"
     }
   }
