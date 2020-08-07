@@ -10,6 +10,7 @@
       ]
     },
     "Texts": {
+      "Chs": "...？",
       "Eng": "...?"
     }
   },
@@ -72,7 +73,7 @@
       ]
     },
     "Texts": {
-      "Chs": "你好。你需要我做什么吗？",
+      "Chs": "你好。有什么我可以帮到你的吗？",
       "Eng": "Greetings. Do you need me for anything?"
     }
   },
@@ -87,7 +88,7 @@
       ]
     },
     "Texts": {
-      "Chs": "我在一个被损坏的房子里感到不安全。你能修好它吗？",
+      "Chs": "在这被损坏的房屋里我如坐针毡。你能修好它吗？",
       "Eng": "I don't feel safe in a damaged house. Can you please fix that?"
     }
   },
@@ -102,7 +103,7 @@
       ]
     },
     "Texts": {
-      "Chs": "我不介意改变，但这里有些不对劲...",
+      "Chs": "我不介意改变，但这真的有点......奇葩",
       "Eng": "I don't mind changes but something is off here..."
     }
   },
